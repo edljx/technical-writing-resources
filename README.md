@@ -55,6 +55,12 @@ Learn the 'Diataxis' framework first. It solves the 'what should I write?' probl
 | **[Diataxis](https://diataxis.fr/)** | Framework | A methodology that splits docs into 4 types: Tutorials, How-To Guides, Reference, and Explanation. **Start here.** |
 | **[Google Tech Writing](https://developers.google.com/tech-writing)** | Course | Google's internal coursework, made public. Excellent for learning sentence structure and clarity. |
 | **[The Good Docs Project](https://thegooddocsproject.dev/)** | Templates | Open source templates for READMEs, API references, and more. |
+| **[free-programming-books](https://github.com/EbookFoundation/free-programming-books)** | Free Books List | Curated 300k+ star list of free programming books. |
+| **[Harper](https://github.com/Automattic/harper)** | Grammar Checker | Offline, privacy-first grammar checker written in Rust. |
+| **[Omniget](https://github.com/tonhowtf/omniget)** | Course & Book Study Tool | Study online courses, books, and PDFs with timestamped notes. |
+| **[Extract2MD](https://github.com/hashangit/Extract2MD)** | PDF→Markdown | Browser-side PDF text extraction to Markdown. |
+| **[Docling](https://github.com/docling-project/docling)** | Document Parser | Document parsing for generative AI workflows. |
+| **[Paper Debugger](https://github.com/PaperDebugger/paperdebugger)** | LaTeX Companion | Open-source debugging companion for LaTeX papers. |
 
 ### 🛠 Tools
 | Tool | Use Case | Description |
@@ -64,5 +70,49 @@ Learn the 'Diataxis' framework first. It solves the 'what should I write?' probl
 
 
 ---
+
+### 📘 Style Guides & Reference
+| Resource | Type | Description |
+| :--- | :--- | :--- |
+| **[Microsoft Style Guide](https://learn.microsoft.com/en-us/style-guide/welcome/)** | Style Guide | Microsoft's public voice and tone reference; widely applicable. |
+| **[Google Developer Style Guide](https://developers.google.com/style)** | Style Guide | Distinct from Google's prose guide; focused on code-adjacent docs. |
+| **[Write the Docs: Style Guide Index](https://www.writethedocs.org/style-guides/)** | Index | List of 20+ public style guides from companies and orgs. |
+| **[Plain English Campaign](https://www.plainenglish.co.uk/)** | Style Guide | UK org advocating for clear, jargon-free writing. |
+| **[The Elements of Style (Strunk & White)](https://en.wikipedia.org/wiki/The_Elements_of_Style)** | Book | Old-school prose guide, still useful for sentence-level edits. |
+| **[US English – Chicago Manual](https://www.chicagomanualofstyle.org/)** | Reference | The reference for typography, punctuation, citation. |
+
+### 🛠 More Tools
+| Tool | Use Case | Description |
+| :--- | :--- | :--- |
+| **[Vale](https://vale.sh/)** | Linter | Rule-based prose linter for markdown and docs-as-code workflows. |
+| **[markdownlint](https://github.com/DavidAnson/markdownlint)** | Linter | Lint for Markdown consistency; integrates with most editors and CI. |
+| **[Grammarly](https://www.grammarly.com/)** | Editing | Browser + desktop grammar and tone checker. Free tier covers basic grammar. |
+| **[ProWritingAid](https://prowritingaid.com/)** | Editing | Reports on style, repetition, and clarity; integrates with Scrivener and Word. |
+| **[Hemingway App](https://hemingwayapp.com/)** | Editing | Highlights passive voice, complex sentences, adverbs. |
+| **[write-good](https://github.com/btford/write-good)** | Linter (Node) | Prose linter that flags weasel words, passive voice, lexical illusions. |
+| **[Vale on CI](https://vale.sh/docs/integrations/guide/)** | CI | Runs Vale against every PR; block merges on style violations. |
+
+### 🧱 Docs-as-Code Tooling
+| Tool | Use Case | Description |
+| :--- | :--- | :--- |
+| **[Docusaurus](https://docusaurus.io/)** | Static Site | React-based docs site; powers Facebook, React Native, Jest docs. |
+| **[MkDocs](https://www.mkdocs.org/)** | Static Site | Pure-Python; widely used for Python ecosystem documentation. |
+| **[MkDocs Material](https://squidfunk.github.io/mkdocs-material/)** | Theme | The de-facto MkDocs theme — modern, fast, accessible. |
+| **[Sphinx](https://www.sphinx-doc.org/)** | Static Site | reStructuredText-based; standard for Python core libs. |
+| **[DocFX](https://dotnet.github.io/docfx/)** | Static Site | Microsoft's docs generator, used for .NET and Azure docs. |
+| **[DITA Open Toolkit](https://www.dita-ot.org/)** | Authoring | XML-based structured authoring for enterprise technical pubs. |
+| **[Read the Docs](https://about.readthedocs.com/)** | Hosting | Free CI + hosting for Sphinx and MkDocs sites. |
+| **[Mintlify](https://mintlify.com/)** | Hosted Docs | Hosted docs platform with auto-generated API references. |
+| **[Docs-as-Code (WTD Guide)](https://www.writethedocs.org/guide/docs-as-code/)** | Methodology | The philosophy itself — docs live in the repo, versioned with code. |
+
+### 🎯 Practice & Community
+| Resource | Description |
+| :--- | :--- |
+| **[Write the Docs Slack](https://www.writethedocs.org/slack/)** | The largest active community of technical writers. |
+| **[Write the Docs Conferences](https://www.writethedocs.org/conferences/)** | Annual US, EU, and AU conferences; talks are recorded. |
+| **[Write the Docs Newsletter](https://www.writethedocs.org/newsletter/)** | Monthly job board + community highlights. |
+| **[DNX – Developer Documentation](https://developer-documentation.netlify.app/)** | Annual conference for developer-experience focused writers. |
+| **[Carbon Ads for Docs](https://www.carbonads.net/)** | Optional ad-network for funded open-source docs sites. |
+
 ### 🤝 Contributing
 Contributions are welcome! If you find a broken link or have a resource that belongs here, please open an Issue.
